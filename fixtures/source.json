@@ -1,0 +1,7 @@
+{
+  "files": {
+    "gateway.log": "{\"device\":\"A\",\"value\":18}\n{\"device\":\"B\",\"value\":\"在线\""
+  },
+  "append": " ,\"seq\":2}\n",
+  "new_file": "{\"device\":\"A\",\"value\":19}\n"
+}
